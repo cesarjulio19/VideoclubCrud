@@ -3,6 +3,22 @@
 Este es un proyecto de un Crud sobre un videoclub en el que podrás añadir,eliminar y actualizar películas con una serie de datos como por ejemplo su nombre y el genero.
 Para poder acceder a estas opciones primero habrá que iniciar sesion o registrarse en la página.
 
+Para poder ejecutar esta aplicación tendrás que seguir estos pasos:
+
+1-Descarga la carpeta de la aplicación en el repositorio.
+
+2-Descarga la carpeta node module en el directorio principal de la aplicación con el comando: npm install.
+
+3-Ejecuta la aplicación en el localhost mediante el comando: npm run serve.
+
+4-Ya estarás listo para disfrutar de esta aplicación!
+
+*Prerrequisitos:
+
+Necesitaras NodeJS para ejecutar estos comandos.
+
+Descarga NodeJS:https://nodejs.org/es/download/
+
 
 ![login](https://user-images.githubusercontent.com/48284756/119232852-f21bed80-bb26-11eb-81d4-2220e297251c.jpg)
 
